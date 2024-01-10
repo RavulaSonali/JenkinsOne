@@ -1,0 +1,14 @@
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.AssemblyInfo.cs
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.exe
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.deps.json
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.runtimeconfig.json
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.dll
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\bin\Debug\net6.0\ConAppOne.pdb
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.dll
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\refint\ConAppOne.dll
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.pdb
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ConAppOne.genruntimeconfig.cache
+D:\Mphasis\Phase-4 Testing\10-01-2024\ConAppOne\ConAppOne\obj\Debug\net6.0\ref\ConAppOne.dll
